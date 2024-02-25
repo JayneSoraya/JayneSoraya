@@ -5,10 +5,10 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Jayne Soraya and my nickname is "JayneSoraya"!
 
-##about my: 
+## sobre mim
 - 🔭 Atualmente trabalho como Analista de infraestrutura 
 
-##Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 ## Estou aprendendo
