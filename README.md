@@ -34,7 +34,7 @@ Objective: This repository contains my personal portfolio, developed with HTML, 
 * Welcome to my portfolio!
 Here you can find my main projects, skills, and ways to get in touch.
 
-👉 [View online] (https://jaynesoraya.github.io/meu-portifolio/)
+👉 [View online] (https://meu-portfolio-jayne.vercel.app/)
 
 
 
